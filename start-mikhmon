@@ -15,5 +15,3 @@ php -S 0.0.0.0:8080
 exit 0
 elif [ $ch -eq 2 ];then
 echo -e "\e[1;34 MR.X WELCOME TO HOME \e[1;32m"
-cd ~
-ls
